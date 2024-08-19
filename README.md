@@ -23,9 +23,9 @@ Desarrollador full stack con 5 años de experiencia en el desarrollo de aplicaci
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   
 
-## 📬 Get in Touch
+## 📬 Contáctos
 
-- Connect with me on [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [LinkedIn]([https://twitter.com/introvertedbot](https://www.linkedin.com/in/orlando-chaparro/))
+- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [LinkedIn]([https://twitter.com/introvertedbot](https://www.linkedin.com/in/orlando-chaparro/))
 - 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
