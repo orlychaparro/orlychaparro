@@ -1,23 +1,8 @@
-## Hi there 👋
 
-<!--
-**orlychaparro/orlychaparro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Orlando Chaparro 👋
 
-Here are some ideas to get you started:
+Full Stack Java Spring / Angular Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi, I'm Orlando Chaparro>! 👋
-
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![orlychaparro's Stats](https://github-readme-stats.vercel.app/api?username=orlychaparro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -33,7 +18,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,java,js,html,css,wasm)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
