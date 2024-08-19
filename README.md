@@ -25,7 +25,7 @@ Desarrollador full stack con 5 años de experiencia en el desarrollo de aplicaci
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
+- Connect with me on [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [LinkedIn]([https://twitter.com/introvertedbot](https://www.linkedin.com/in/orlando-chaparro/))
 - 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
