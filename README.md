@@ -18,6 +18,8 @@ Full Stack Java Spring / Angular Developer
 
 
 ## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i= java,spring,angular,js,html,css,git&theme=light)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=angular,java,js,html,css,wasm)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
