@@ -27,9 +27,8 @@ Desarrollador full stack con 5 años de experiencia en el desarrollo de aplicaci
 [![](https://visitcount.itsvg.in/api?id=orlychaparro&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
+Gracias por pasar a ver mi perfil. 
+Contactos: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/orlychaparro) 
 
 
 <!--
